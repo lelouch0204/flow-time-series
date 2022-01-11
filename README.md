@@ -28,9 +28,7 @@ X' = (X - min(X))/(max(X) - min(X)) </center>
 </div>
 
 ### Elements of time series
-<div align="center">
 ![Flow and Total suspended Solids values plotted against time](Images/value_representation.png)
- </div>
  
 The above figure shows the scaled values of the Flow and Total Suspended solids with respect to the temporal axis. On thorough inspection of this representation, we can make the following conclusions:
 
